@@ -1,2 +1,5 @@
 *
 !.gitignore
+!LCSTS_train-self.json
+!LCSTS_valid-self.json
+!LCSTS_test-self.json
