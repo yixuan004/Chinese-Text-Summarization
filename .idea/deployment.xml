@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="h5-Text-Summarization" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="h5-Text-Summarization">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/sdb1/lyx/Text-Summarization" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/BertSum-Chinese/raw_data" />
+            <excludedPath path="/data/sdb1/lyx/Text-Summarization/BertSum-Chinese/raw_data" />
+            <excludedPath local="true" path="$PROJECT_DIR$/datasets" />
+            <excludedPath path="/data/sdb1/lyx/Text-Summarization/BertSum-Chinese/json_data" />
+            <excludedPath path="/data/sdb1/lyx/Text-Summarization/BertSum-Chinese/models" />
+            <excludedPath path="/data/sdb1/lyx/Text-Summarization/BertSum-Chinese/bert_data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
