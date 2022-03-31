@@ -1,0 +1,26 @@
+2020-12-09 10:06:55,865 - data_util.log - INFO - log启动
+2020-12-09 10:06:57,658 - data_util.log - INFO - 
+2020-12-09 10:07:07,572 - data_util.log - INFO - 0005000.tar rouge_1:0.2592 rouge_2:0.1039 rouge_l:0.2520
+2020-12-09 10:07:07,626 - data_util.log - INFO - 
+2020-12-09 10:07:14,659 - data_util.log - INFO - 0010000.tar rouge_1:0.2624 rouge_2:0.0974 rouge_l:0.2511
+2020-12-09 10:07:14,711 - data_util.log - INFO - 
+2020-12-09 10:07:21,784 - data_util.log - INFO - 0015000.tar rouge_1:0.3022 rouge_2:0.1296 rouge_l:0.2866
+2020-12-09 10:07:21,839 - data_util.log - INFO - 
+2020-12-09 10:07:28,759 - data_util.log - INFO - 0020000.tar rouge_1:0.2977 rouge_2:0.1295 rouge_l:0.2918
+2020-12-09 10:07:28,813 - data_util.log - INFO - 
+2020-12-09 10:07:35,688 - data_util.log - INFO - 0025000.tar rouge_1:0.3050 rouge_2:0.1560 rouge_l:0.2997
+2020-12-09 10:07:35,740 - data_util.log - INFO - 
+2020-12-09 10:07:42,651 - data_util.log - INFO - 0030000.tar rouge_1:0.3079 rouge_2:0.1452 rouge_l:0.2944
+2020-12-09 10:07:42,705 - data_util.log - INFO - 
+2020-12-09 10:07:49,646 - data_util.log - INFO - 0035000.tar rouge_1:0.3031 rouge_2:0.1340 rouge_l:0.2968
+2020-12-09 10:07:49,697 - data_util.log - INFO - 
+2020-12-09 10:07:56,557 - data_util.log - INFO - 0040000.tar rouge_1:0.3198 rouge_2:0.1500 rouge_l:0.3093
+2020-12-09 10:07:56,612 - data_util.log - INFO - 
+2020-12-09 10:08:03,430 - data_util.log - INFO - 0045000.tar rouge_1:0.2734 rouge_2:0.1089 rouge_l:0.2697
+2020-12-09 10:08:03,485 - data_util.log - INFO - 
+2020-12-09 10:08:10,347 - data_util.log - INFO - 0050000.tar rouge_1:0.2929 rouge_2:0.1256 rouge_l:0.2851
+2020-12-09 10:08:10,398 - data_util.log - INFO - 
+2020-12-09 10:08:17,435 - data_util.log - INFO - 0055000.tar rouge_1:0.2343 rouge_2:0.0733 rouge_l:0.2712
+2020-12-09 10:08:17,489 - data_util.log - INFO - 
+2020-12-09 10:08:24,504 - data_util.log - INFO - 0060000.tar rouge_1:0.2270 rouge_2:0.0715 rouge_l:0.2644
+2020-12-09 10:08:24,558 - data_util.log - INFO - 

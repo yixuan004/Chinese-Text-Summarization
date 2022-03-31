@@ -1,0 +1,8 @@
+2022-03-23 15:07:07,414 - data_util.log - INFO - log启动
+2022-03-23 15:07:11,469 - data_util.log - INFO - Bucket queue size: 0, Input queue size: 0
+2022-03-23 15:08:11,527 - data_util.log - ERROR - Found batch queue thread dead. Restarting.
+2022-03-23 15:08:11,539 - data_util.log - INFO - Bucket queue size: 1, Input queue size: 31952
+2022-03-23 15:08:27,252 - data_util.log - INFO - iter:50  mle_loss:8.924  reward:0.0000*
+2022-03-23 15:08:34,892 - data_util.log - INFO - iter:100  mle_loss:7.085  reward:0.0000*
+2022-03-23 15:08:42,661 - data_util.log - INFO - iter:150  mle_loss:6.476  reward:0.0000*
+2022-03-23 15:08:50,412 - data_util.log - INFO - iter:200  mle_loss:6.313  reward:0.0000*

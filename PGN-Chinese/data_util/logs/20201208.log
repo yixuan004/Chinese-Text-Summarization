@@ -1,0 +1,33 @@
+2020-12-08 21:19:16,677 - data_util.log - INFO - log启动
+2020-12-08 21:19:18,432 - data_util.log - INFO - 
+2020-12-08 21:19:33,654 - data_util.log - INFO - 0005000.tar rouge_1:0.2592 rouge_2:0.1039 rouge_l:0.2520
+2020-12-08 21:19:33,709 - data_util.log - INFO - 
+2020-12-08 21:19:45,156 - data_util.log - INFO - 0010000.tar rouge_1:0.2624 rouge_2:0.0974 rouge_l:0.2511
+2020-12-08 21:19:45,249 - data_util.log - INFO - 
+2020-12-08 21:19:57,100 - data_util.log - INFO - 0015000.tar rouge_1:0.3022 rouge_2:0.1296 rouge_l:0.2866
+2020-12-08 21:19:57,151 - data_util.log - INFO - 
+2020-12-08 21:20:08,825 - data_util.log - INFO - 0020000.tar rouge_1:0.2977 rouge_2:0.1295 rouge_l:0.2918
+2020-12-08 21:20:08,877 - data_util.log - INFO - 
+2020-12-08 21:20:20,270 - data_util.log - INFO - 0025000.tar rouge_1:0.3050 rouge_2:0.1560 rouge_l:0.2997
+2020-12-08 21:20:20,324 - data_util.log - INFO - 
+2020-12-08 21:20:31,990 - data_util.log - INFO - 0030000.tar rouge_1:0.3079 rouge_2:0.1452 rouge_l:0.2944
+2020-12-08 21:20:32,045 - data_util.log - INFO - 
+2020-12-08 21:20:43,310 - data_util.log - INFO - 0035000.tar rouge_1:0.3031 rouge_2:0.1340 rouge_l:0.2968
+2020-12-08 21:20:43,361 - data_util.log - INFO - 
+2020-12-08 21:20:54,760 - data_util.log - INFO - 0040000.tar rouge_1:0.3198 rouge_2:0.1500 rouge_l:0.3093
+2020-12-08 21:20:54,811 - data_util.log - INFO - 
+2020-12-08 21:21:06,088 - data_util.log - INFO - 0045000.tar rouge_1:0.2734 rouge_2:0.1089 rouge_l:0.2697
+2020-12-08 21:21:06,141 - data_util.log - INFO - 
+2020-12-08 21:21:17,676 - data_util.log - INFO - 0050000.tar rouge_1:0.2929 rouge_2:0.1256 rouge_l:0.2851
+2020-12-08 21:21:17,730 - data_util.log - INFO - 
+2020-12-08 21:21:29,382 - data_util.log - INFO - 0055000.tar rouge_1:0.2343 rouge_2:0.0733 rouge_l:0.2712
+2020-12-08 21:21:29,433 - data_util.log - INFO - 
+2020-12-08 21:21:41,688 - data_util.log - INFO - 0060000.tar rouge_1:0.2270 rouge_2:0.0715 rouge_l:0.2644
+2020-12-08 21:21:41,741 - data_util.log - INFO - 
+2020-12-08 21:21:54,064 - data_util.log - INFO - 0065000.tar rouge_1:0.2288 rouge_2:0.0793 rouge_l:0.2645
+2020-12-08 21:21:54,119 - data_util.log - INFO - 
+2020-12-08 21:22:05,979 - data_util.log - INFO - 0070000.tar rouge_1:0.2301 rouge_2:0.0818 rouge_l:0.2768
+2020-12-08 21:22:06,030 - data_util.log - INFO - 
+2020-12-08 21:22:17,975 - data_util.log - INFO - 0075000.tar rouge_1:0.2245 rouge_2:0.0794 rouge_l:0.2618
+2020-12-08 21:22:18,027 - data_util.log - INFO - 
+2020-12-08 21:22:29,849 - data_util.log - INFO - 0080000.tar rouge_1:0.2567 rouge_2:0.1030 rouge_l:0.2936
